@@ -1,0 +1,21 @@
+Q3.
+A.What is reverse-i-search in a Linux terminal?
+The reverse-i-search is used for the history navigation. As, we forget the command which we used few days back, 
+here one way is that we can use arrow keys but it will took us to each and every command we executed. 
+But using reverse-i-search and giving any part of the command which we remind will took us to that command. All in all it is used for checking history.  
+
+
+B.How do you list out the hidden directories using Linux command line tool?
+By using ls command we can list all the directories but we can't list hidden directories by ls command.
+So, we will use ls -a which will lists all the file with hidden directories.
+
+
+C.How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+I have knowledge of Ubuntu as I have worked in Ubuntu at my college but Centos is new for me. I will be comfortable with Linux based OS, 
+if I got the chance to work with these I can work with dedication using my knowledge and research.
+
+
+D.Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+No, not yet but used Xampp Control pannel where I use Apache and Tomcat as servers while working with the data to retrieve at the back end of the website.
+
